@@ -1,0 +1,3 @@
+2
+resource.h
+resource1.h
